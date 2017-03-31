@@ -6,4 +6,6 @@ BBC Dataset is used( filenames are refactored to [categoryname]-[number] ). Data
 http://mlg.ucd.ie/datasets/bbc.html
 
 Run:
+
+
 java -jar doc_classifier_knn.jar -Dir=data -categories=business,entertainment,politics,sport,tech -trainingSize=150 -k=3
