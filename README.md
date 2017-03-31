@@ -1,6 +1,6 @@
 # doc_classifier_knn
 
-Java Implementation of K-Nearest Neighbor Text Categorization
+Pure Java Implementation of K-Nearest Neighbor Text Categorization
 
 BBC Dataset is used( filenames are refactored to [categoryname]-[number] ). Dataset is under "data" folder.
 http://mlg.ucd.ie/datasets/bbc.html
