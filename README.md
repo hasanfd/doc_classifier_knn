@@ -9,3 +9,6 @@ Run:
 
 
 java -jar doc_classifier_knn.jar -Dir=data -categories=business,entertainment,politics,sport,tech -trainingSize=150 -k=3
+
+
+Written for experimental purpose. It could be optimized and expanded.
