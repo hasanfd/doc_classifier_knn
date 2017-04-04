@@ -2,7 +2,7 @@
 
 Pure Java Implementation of K-Nearest Neighbor Text Categorization
 
-BBC Dataset is used( filenames are refactored to [categoryname]-[number] ). Dataset is under "data" folder.
+BBC Dataset is used for test(filenames are refactored to [categoryname]-[number] ). Dataset is under "data" folder.
 http://mlg.ucd.ie/datasets/bbc.html
 
 Run:
