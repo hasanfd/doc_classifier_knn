@@ -12,3 +12,5 @@ java -jar doc_classifier_knn.jar -Dir=data -categories=business,entertainment,po
 
 
 Written for experimental purpose. It could be optimized and expanded.
+
+Concurrent implementation of this algorithm -> https://github.com/hasanfd/concurrent_doc_classifier_knn
